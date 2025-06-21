@@ -1,4 +1,4 @@
 # DATA-SCIENCE
 This is my first Git Repository 
 <br>
-Author : VENKATESH DAPKEKAR
+Author : VENKATESH DAPKEKAR (data science expert)
